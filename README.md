@@ -1,8 +1,6 @@
 ## Olá! 👋
 Sou engenheiro químico de formação com 3 anos de experiência de área de dados.
 
-Atualmente, estou 
-
 ## 🎓 Formação 
 
 •	Python Impressionador - Hashtag Treinamentos (em andamento)
@@ -19,7 +17,6 @@ Linguagens: SQL, Python
 BI & Análise de Dados: Power BI, Excel
 Automação: Power Automate, Python
 Outros: Jupyter Notebook, VS Code
-
 
 
 <!--
