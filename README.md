@@ -14,8 +14,11 @@ Sou engenheiro químico de formação com 3 anos de experiência de área de dad
 
 ## 🛠️ Ferramentas e Tecnologias
 Linguagens: SQL, Python
-BI & Análise de Dados: Power BI, Excel
+
+BI e Análise de Dados: Power BI, Excel
+
 Automação: Power Automate, Python
+
 Outros: Jupyter Notebook, VS Code
 
 
